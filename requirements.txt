@@ -1,0 +1,14 @@
+streamlit
+openai
+langchain
+llama-index
+pypdf
+faiss-cpu
+chromadb
+gTTS
+SpeechRecognition
+transformers
+sentence-transformers
+googletrans==4.0.0-rc1
+watchdog
+tiktoken

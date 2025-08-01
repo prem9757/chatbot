@@ -1,6 +1,6 @@
 streamlit
 openai
-langchain
+langchain==0.0.330
 llama-index
 pypdf
 faiss-cpu
@@ -13,4 +13,5 @@ googletrans==4.0.0-rc1
 watchdog
 tiktoken
 deep-translator
+pydantic==1.10.13
 
